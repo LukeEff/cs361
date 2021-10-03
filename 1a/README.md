@@ -1,1 +1,1 @@
-A ruby program that defines a player class that has a name and a score. 
+A ruby program that defines a Player class that has a name and a score. Next, an array of fifty Player objects is created. Each Player object has a name that follows the pattern "Player 1", "Player 2", etc. Each player also has a random score between 10 and 300. The program prints out the Player objects in the array in a way such that a message "Ready Player N! Score: S" is presented, where N is the number of the player and S is the random score of the player.
